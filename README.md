@@ -7,5 +7,5 @@ To assemble and link issue something like:
 > tasm /m /ml /q /t /w2 /z /zn internet.asm
 > tlink /3 /t /x internet.obj
 </pre>  
-If anyone happens to know what happened to Rawlock
-please let me know.
+If anyone happens to know what happened to Rawlock or  
+why UPX breaks the binary please let me know.
